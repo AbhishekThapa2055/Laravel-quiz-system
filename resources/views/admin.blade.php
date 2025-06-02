@@ -10,7 +10,7 @@
 <body>
     <nav class='bg-white shadow-md px-4 py-3'>
        <div class="flex justify-between item-center">
-        <div>
+        <div class="text-2xl hover:text-blue-500 cursor-pointer">
             Quiz System
         </div>
         <div class="space-x-4">
